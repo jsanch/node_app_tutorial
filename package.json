@@ -1,0 +1,30 @@
+{
+  "name": "node_app_tutorial",
+  "version": "0.0.0",
+  "description": "example node app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsanch/node_app_tutorial.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jaime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsanch/node_app_tutorial/issues"
+  },
+  "homepage": "https://github.com/jsanch/node_app_tutorial",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
